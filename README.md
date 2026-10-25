@@ -1,5 +1,7 @@
 # Study Vault UIT
 
+> **Repository context:** This README describes the community **Study Vault UIT** learning-materials project and references the SVUIT organization. It should not be interpreted as my original AI/ML project or an individual portfolio achievement. For work I have personally contributed to, see my [GitHub profile](https://github.com/longzu-ComputerScience) and [LinkedIn](https://www.linkedin.com/in/vuz-long-7b4744393/).
+
 ![Alt](https://repobeats.axiom.co/api/embed/e73603f1010868482e65699b60fc62c7b99d2109.svg "Repobeats analytics image")
 
 ## :memo: Giới thiệu
